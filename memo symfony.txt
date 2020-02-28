@@ -1,0 +1,7 @@
+Créer un formulaire symfony :)
+php bin/console make:form
+TA-Daaaa
+
+Créer une base de données 
+php bin/console doctrine:database:create
+TA-Daaaaa
